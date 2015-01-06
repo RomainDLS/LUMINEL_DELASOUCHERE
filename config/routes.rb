@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'pages/hello'
+
   resources :elements
 
   resources :listes

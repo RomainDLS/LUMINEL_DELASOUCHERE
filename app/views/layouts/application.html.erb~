@@ -21,7 +21,7 @@
         </nav>
       </header>
        <ul>
-      	<a href="/pages/hello">Acceuil</a>.
+      	
     </ul>
       <section class="round">
         <%= yield %>
