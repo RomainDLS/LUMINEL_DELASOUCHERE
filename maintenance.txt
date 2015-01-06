@@ -1,0 +1,5 @@
+Liste  des commandes à executer pour mettre en place le serveur,
+Une fois dans le dossier racine:
+-> bundle install
+-> db:migrate
+-> rails s
